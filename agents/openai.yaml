@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF English to Chinese Translator"
+  short_description: "Translate PDFs to Chinese page by page while preserving layout."
+  default_prompt: "Use $pdf-gpt55-zh-translate to translate this PDF into Simplified Chinese with page-safe progress and layout checks."
